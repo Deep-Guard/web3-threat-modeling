@@ -96,7 +96,7 @@ If working through this template surfaces risks you are not sure how to evaluate
 
 ## Support Open-Source Security Education
 
-**ETH:** `YOUR_ETH_ADDRESS`
+**ETH:** `0xc149EEc98885E700C618360C243dB064D7FcDE3e`
 
 ---
 
