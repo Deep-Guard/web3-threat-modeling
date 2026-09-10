@@ -89,7 +89,7 @@ After completing your threat model, share it with your security assessors. It dr
 If working through this template surfaces risks you are not sure how to evaluate, or if you want expert eyes on your threat model, reach out to Deep Guard.
 
 **Email:** getaudited@deepguard.xyz
-**Telegram:** @KingFavourCreates
+**Telegram:** [Message us](https://t.me/KingFavourCreates)
 **Website:** https://deepguard.xyz
 
 ---

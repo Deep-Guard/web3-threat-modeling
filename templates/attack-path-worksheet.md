@@ -152,4 +152,4 @@ Final: [Impact]
 
 *Completed worksheets should be shared with your security assessors and revisited whenever the protocol changes significantly.*
 
-**Contact Deep Guard:** getaudited@deepguard.xyz | Telegram: @KingFavourCreates
+**Contact Deep Guard:** getaudited@deepguard.xyz | Telegram: [Message us](https://t.me/KingFavourCreates)

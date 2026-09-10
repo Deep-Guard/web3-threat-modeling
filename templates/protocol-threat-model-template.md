@@ -195,4 +195,4 @@ Use the [Attack Path Worksheet](./attack-path-worksheet.md) for each high-priori
 
 *Once your threat model is complete, share it with your security assessors. It significantly improves the quality and focus of a professional assessment.*
 
-**Contact Deep Guard:** getaudited@deepguard.xyz | Telegram: @KingFavourCreates
+**Contact Deep Guard:** getaudited@deepguard.xyz | Telegram: [Message us](https://t.me/KingFavourCreates)

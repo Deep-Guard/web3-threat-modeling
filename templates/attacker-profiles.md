@@ -135,4 +135,4 @@ For each attacker type, consider: do they have a realistic path to damaging your
 
 *Once you have assessed which attacker profiles are relevant to your protocol, return to the [Protocol Threat Model Template](./protocol-threat-model-template.md) to enumerate specific threats.*
 
-**Contact Deep Guard:** getaudited@deepguard.xyz | Telegram: @KingFavourCreates
+**Contact Deep Guard:** getaudited@deepguard.xyz | Telegram: [Message us](https://t.me/KingFavourCreates)

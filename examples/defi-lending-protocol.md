@@ -161,4 +161,4 @@ Protocol takes a loss when position is eventually liquidated
 
 *This example is simplified for illustration. A real threat model for a $50M protocol would require significantly more depth — and should be reviewed by a professional security team before launch.*
 
-**Contact Deep Guard:** getaudited@deepguard.xyz | Telegram: @KingFavourCreates
+**Contact Deep Guard:** getaudited@deepguard.xyz | Telegram: [Message us](https://t.me/KingFavourCreates)
